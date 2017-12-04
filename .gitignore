@@ -1,0 +1,15 @@
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+test/bower_components
+composer.phar
+wp-config-local.php
+wp-config.php
+sitemap.xml
+sitemap.xml.gz
+readme.html
+license.txt
+.log
+.DS_Store
